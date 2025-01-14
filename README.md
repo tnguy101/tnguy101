@@ -9,7 +9,7 @@ I'm Tyler Nguyen, a software developer. My expertise lies in Java, JavaScript, S
 
 ## 🚀 Skills
 - **Languages**: Python, Java, JavaScript, SQL, TypeScript
-- **Frameworks**: ReactJS, FastAPI, Angular
+- **Frameworks**: ReactJS, FastAPI, Angular, Node, Express
 - **Tools**: Git, Postman, Docker, AndroidStudio
 
 ## 📌 Featured Projects
