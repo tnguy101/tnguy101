@@ -20,4 +20,3 @@ I'm Tyler Nguyen, a software developer. My expertise lies in Java, JavaScript, S
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/tyler-nguyen-95a524345)
-- [Portfolio](https://tylernguyen.dev)
