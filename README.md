@@ -15,7 +15,7 @@ I'm Tyler Nguyen, a software developer. My expertise lies in Java, JavaScript, S
 ## 📌 Featured Projects
 - [COIL Database](https://github.com/tnguy101/coildb.git) - A web app for the UNC Global Affairs team to manage course data.
 - [UNC CSXL Website](https://github.com/tnguy101/csxl-team-c7-organization) - Enhance the UI/UX of the UNC CSXL website.
-- [Android Story Teller](https://github.com/username/android) - Android app with photo tagger, sketch tagger, and story generator.
+- Android Story Teller - Android app with photo tagger, sketch tagger, and story generator.
 
 
 ## 📫 Contact Me
