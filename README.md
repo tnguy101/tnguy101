@@ -5,7 +5,7 @@ I'm Tyler Nguyen, a software developer. My expertise lies in Java, JavaScript, S
 ## 🌟 About Me
 - 🎓 BS Computer Science from UNC Chapel Hill.
 - 💻 Working on personal projects at the moment.
-- 🔭 Exploring different database systems and backend APIs.
+- 🔭 Exploring different database systems, backend APIs, and AI development.
 
 ## 🚀 Skills
 - **Languages**: Python, Java, JavaScript, SQL, TypeScript
